@@ -1,6 +1,6 @@
-package pages;
+package Pages;
 
-public class ContactPage
+public class ContactPage{
   
   // html
   }
